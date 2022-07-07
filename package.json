@@ -1,6 +1,6 @@
 {
   "name": "rakudo-form-parts-library",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
   "author": "Tanaka Kensaku <tannakaken@gmail.com>",
