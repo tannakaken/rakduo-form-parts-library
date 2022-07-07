@@ -1,6 +1,7 @@
 export * from "./FormParts/DialogSelectorPresenter";
 export * from "./FormParts/DialogSelectorWithValidationPresenter";
 export * from "./FormParts/LazyNumberForm";
+export * from "./FormParts/SingleSelectorModalPresenter";
 export * from "./FormParts/MultiSelectorModalPresenter";
 export * from "./FormParts/NumberForm";
 export * from "./FormParts/PromptModal";
