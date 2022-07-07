@@ -59,7 +59,7 @@ type Props<MESSAGE_DATA, T> = DialogSelectorWithValidationProps<
   t: (messageData: MESSAGE_DATA) => string;
 };
 
-export const DialogSelectorPresenterWithValidation = <
+export const DialogSelectorWithValidationPresenter = <
   MESSAGE_DATA,
   T extends HasName
 >(
